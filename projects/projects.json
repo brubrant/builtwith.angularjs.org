@@ -1609,6 +1609,20 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Forex Risk Management",
+      "thumb": "risk-management/thumb.png",
+      "desc": "Risk Calculator and Money Management for Forex Investors. This app aims to help people understand concepts as Leverage and Draw Down and stop losign money.",
+      "url": "http://forex-social.com/risk-management-planner-etoro",
+      "info": "http://forex-social.com/risk-management-planner-etoro",
+      "submitter": "brubrant",
+      "submissionDate": "2013-12-08",
+      "tags": [
+        "Beta",
+        "Money Management", "Forex", "investments",
+        "Data Binding", "MacGyver", "No jQuery", "Bootstrap"
+      ]
     }
   ]
 }
